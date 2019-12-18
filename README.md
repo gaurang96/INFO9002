@@ -1,0 +1,4 @@
+# INFO9002
+Coffee Club is a social platform for coffee lovers. Users connect via a smartphone app to the Coffee Club server. The job was to design a physical model for deploying a databse that would support respective software features, as specified in the pdf file. This project was undertaken as a student of INFO90002 (Databases and Information Modelling) at the University of Melbourne.
+The file named "Assignment1-Case.pdf" illustrates the details for the case study of the project. It specifies the business rules that have to be enforced while designing the database. 
+The file named "Assignment1_ABG.pdf" shows the ERD model that has been created for the social app - Coffee Club. Along with the ERD model, the data dictionary has been given which breaksdown the entities in the model along with their brief description. 
